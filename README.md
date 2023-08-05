@@ -26,8 +26,7 @@ Start searching for your favorite movies!
 API Key
 CineVerse uses the TMDB API to fetch movie data. You need to obtain an API key from TMDB and add it to the js/api.js file as follows:
 
-javascript
-Copy code
+## javascript
 const apiKey = 'YOUR_TMDB_API_KEY';
 Contributions
 Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
